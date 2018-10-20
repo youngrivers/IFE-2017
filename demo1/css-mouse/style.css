@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    text-align: center;
+    height: 100%;
+    line-height: 100%;
+}
